@@ -40,24 +40,26 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
 
-CIRCUIT DIAGRAM:
-
 
 a.   KVL:
  
+<img width="1242" height="775" alt="Kvl" src="https://github.com/user-attachments/assets/9601c91b-4566-404c-97ce-8380dedd2480" />
 
 
 b.  KCL:
- 
+ <img width="962" height="449" alt="Kcl" src="https://github.com/user-attachments/assets/b05e954a-701b-40aa-b5ab-25a1242dc576" />
+
 
 Calculation:
 
 a.   KVL:
  
+<img width="1147" height="1600" alt="KVL" src="https://github.com/user-attachments/assets/8b908040-d654-4a00-a819-18f67bcf598b" />
 
 
 b.  KCL:
 
+<img width="941" height="1600" alt="KCL" src="https://github.com/user-attachments/assets/54cde50d-6080-490e-8834-570542e50cfe" />
 
 
 
@@ -65,10 +67,12 @@ Tabulation:
 
 a.   KVL:
  
+<img width="1599" height="807" alt="KVL T" src="https://github.com/user-attachments/assets/e20500e7-9db3-439e-9491-7535cc5993da" />
 
 
 b.  KCL:
 
+<img width="1600" height="862" alt="KCL T" src="https://github.com/user-attachments/assets/57813c9a-2b00-41af-b1a2-66bc5ecd7cc4" />
 
 
 RESULT:
